@@ -1,3 +1,11 @@
+'''
+Code pour calculer les données CSV Altitude avec un Menu
+@auteur(e)s     X.Adil X.Maziz et Y.Gaven Y.D'Haiti
+@matricules     e2388395 et e2280278
+@date              20-05-2024
+            '''
+
+
 import csv
 import json
 import math
